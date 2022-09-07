@@ -1,0 +1,37 @@
+{
+    "drumInventory": [
+    {
+        "id": 1,
+        "productName": "Pearl",
+        "description": "Bottomless House Roasted Coffee",
+        "price": 2000,
+        "shellPackOnly": true,
+        "imageUrl":"https://images.unsplash.com/photo-1543443258-92b04ad5ec6b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+    },
+    {
+        "id": 2,
+        "productName": "pdp",
+        "description": "Choice of any fountain sparkling beverage",
+        "price": 1500,
+        "shellPackOnly": false,
+        "imageUrl":"https://images.unsplash.com/photo-1580625528104-830b09667e42?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+    },
+    {
+        "id": 3,
+        "productName": "ASBA Snare Drum",
+        "description": "Dark chocolate whipped with locally sourced milk and sweetened with sugar",
+        "price": 400,
+        "shellPackOnly": false,
+        "imageUrl":"https://images.unsplash.com/photo-1626962131658-603aae425e19?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80"
+
+    },
+    {
+        "id": 4,
+        "productName": "Mapex Saturn",
+        "description": "A slice of our exquisite Pecan Pie",
+        "price": 2500,
+        "shellPackOnly": false,
+        "imageUrl":"https://images.unsplash.com/photo-1568153354382-6bcd1d46568b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1632&q=80"
+
+    }]
+}
